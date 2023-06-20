@@ -1,0 +1,15 @@
+D:\Supriya\dotnet\Lab12.2\Lab12.2\bin\Debug\net6.0\Lab12.2.exe
+D:\Supriya\dotnet\Lab12.2\Lab12.2\bin\Debug\net6.0\Lab12.2.deps.json
+D:\Supriya\dotnet\Lab12.2\Lab12.2\bin\Debug\net6.0\Lab12.2.runtimeconfig.json
+D:\Supriya\dotnet\Lab12.2\Lab12.2\bin\Debug\net6.0\Lab12.2.dll
+D:\Supriya\dotnet\Lab12.2\Lab12.2\bin\Debug\net6.0\Lab12.2.pdb
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.csproj.AssemblyReference.cache
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.AssemblyInfoInputs.cache
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.AssemblyInfo.cs
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.csproj.CoreCompileInputs.cache
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.dll
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\refint\Lab12.2.dll
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.pdb
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\Lab12.2.genruntimeconfig.cache
+D:\Supriya\dotnet\Lab12.2\Lab12.2\obj\Debug\net6.0\ref\Lab12.2.dll

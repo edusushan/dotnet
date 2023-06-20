@@ -1,0 +1,15 @@
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.csproj.AssemblyReference.cache
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfoInputs.cache
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.AssemblyInfo.cs
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.csproj.CoreCompileInputs.cache
+D:\Supriya\dotnet\Lab9\Lab9\bin\Debug\net6.0\Lab9.exe
+D:\Supriya\dotnet\Lab9\Lab9\bin\Debug\net6.0\Lab9.deps.json
+D:\Supriya\dotnet\Lab9\Lab9\bin\Debug\net6.0\Lab9.runtimeconfig.json
+D:\Supriya\dotnet\Lab9\Lab9\bin\Debug\net6.0\Lab9.dll
+D:\Supriya\dotnet\Lab9\Lab9\bin\Debug\net6.0\Lab9.pdb
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.dll
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\refint\Lab9.dll
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.pdb
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\Lab9.genruntimeconfig.cache
+D:\Supriya\dotnet\Lab9\Lab9\obj\Debug\net6.0\ref\Lab9.dll

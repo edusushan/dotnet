@@ -1,0 +1,15 @@
+D:\Supriya\dotnet\Lab11\Lab11\bin\Debug\net6.0\Lab11.exe
+D:\Supriya\dotnet\Lab11\Lab11\bin\Debug\net6.0\Lab11.deps.json
+D:\Supriya\dotnet\Lab11\Lab11\bin\Debug\net6.0\Lab11.runtimeconfig.json
+D:\Supriya\dotnet\Lab11\Lab11\bin\Debug\net6.0\Lab11.dll
+D:\Supriya\dotnet\Lab11\Lab11\bin\Debug\net6.0\Lab11.pdb
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.AssemblyReference.cache
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfoInputs.cache
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.AssemblyInfo.cs
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.csproj.CoreCompileInputs.cache
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.dll
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\refint\Lab11.dll
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.pdb
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\Lab11.genruntimeconfig.cache
+D:\Supriya\dotnet\Lab11\Lab11\obj\Debug\net6.0\ref\Lab11.dll

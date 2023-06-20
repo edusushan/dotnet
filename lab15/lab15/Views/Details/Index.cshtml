@@ -1,0 +1,56 @@
+﻿@{ 
+    ViewBag.Title = "Index"; 
+} 
+ 
+<h46 I am Supriya</h4> 
+<p>Today Date and Time is:@DateTime.Now</p> 
+<p>This year is @DateTime.Now.Year</p> 
+<!--Declaring Variables--> 
+@{ 
+    String name = "Supriya Budhathoki"; 
+    var TodaysTime = DateTime.Now.ToLongTimeString(); 
+} 
+<h6>Name:@name</h6> 
+<h6>Todays Time is:@TodaysTime</h6> 
+ 
+@{ 
+    int marks = 65; 
+    if (marks >= 80) 
+    { 
+        <h6>Your Grade is A-</h6> 
+    }     else 
+    { 
+        <h6>Your Grade is A</h6> 
+    } 
+} 
+ 
+@{ 
+    String fruit = "strawberry"; 
+    switch (fruit) 
+    {         case "banana": 
+            <h6>You have selected Banana</h6> 
+            break;         
+            case "strawberry": 
+            <h6> You have selected Strawberry </h6>             
+            break;         
+            default: 
+            <h4>Invalid Fruit</h4>             
+            break; 
+    } 
+} 
+ 
+<!--Loop--> 
+@{ 
+    for (int i = 1; i <= 4; i++) 
+    { 
+        <h6>@i</h6> 
+    } 
+} 
+ 
+<!--Loop String--> 
+@{ 
+    String[] coffee = { "Amaricano", "Cappuccino" }; 
+    foreach (String i in coffee) 
+    { 
+        <h6>@i</h6> 
+    }} 

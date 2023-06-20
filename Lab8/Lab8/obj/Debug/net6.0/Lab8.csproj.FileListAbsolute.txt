@@ -1,0 +1,15 @@
+D:\Supriya\dotnet\Lab8\Lab8\bin\Debug\net6.0\Lab8.exe
+D:\Supriya\dotnet\Lab8\Lab8\bin\Debug\net6.0\Lab8.deps.json
+D:\Supriya\dotnet\Lab8\Lab8\bin\Debug\net6.0\Lab8.runtimeconfig.json
+D:\Supriya\dotnet\Lab8\Lab8\bin\Debug\net6.0\Lab8.dll
+D:\Supriya\dotnet\Lab8\Lab8\bin\Debug\net6.0\Lab8.pdb
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.AssemblyReference.cache
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfoInputs.cache
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.AssemblyInfo.cs
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.csproj.CoreCompileInputs.cache
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.dll
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\refint\Lab8.dll
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.pdb
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\Lab8.genruntimeconfig.cache
+D:\Supriya\dotnet\Lab8\Lab8\obj\Debug\net6.0\ref\Lab8.dll

@@ -1,0 +1,15 @@
+D:\Supriya\dotnet\Lab13\Lab13\bin\Debug\net6.0\Lab13.exe
+D:\Supriya\dotnet\Lab13\Lab13\bin\Debug\net6.0\Lab13.deps.json
+D:\Supriya\dotnet\Lab13\Lab13\bin\Debug\net6.0\Lab13.runtimeconfig.json
+D:\Supriya\dotnet\Lab13\Lab13\bin\Debug\net6.0\Lab13.dll
+D:\Supriya\dotnet\Lab13\Lab13\bin\Debug\net6.0\Lab13.pdb
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.AssemblyReference.cache
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfoInputs.cache
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.AssemblyInfo.cs
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.csproj.CoreCompileInputs.cache
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.dll
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\refint\Lab13.dll
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.pdb
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\Lab13.genruntimeconfig.cache
+D:\Supriya\dotnet\Lab13\Lab13\obj\Debug\net6.0\ref\Lab13.dll
